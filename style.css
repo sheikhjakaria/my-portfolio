@@ -16,3 +16,5 @@ section { display:flex;}
     }
 .link-button{ padding: 5px 30px;
              border-radius: 5px ;}
+.year{ color: orange;}
+.center-text{ text-align: center;}
